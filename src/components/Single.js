@@ -1,9 +1,9 @@
-import React, { Fragment } from 'react';
-import { NavLink } from 'react-router-dom';
-import Helmet from 'react-helmet';
-import Posts from './Posts';
-import 'github-markdown-css';
-import '../css/Single.css';
+import React, { Fragment } from "react";
+import { NavLink } from "react-router-dom";
+import Helmet from "react-helmet";
+import Posts from "./Posts";
+import "github-markdown-css";
+import "../css/Single.css";
 const Single = ({ match }) => {
   var post;
 
@@ -23,7 +23,7 @@ const Single = ({ match }) => {
   return (
     <Fragment>
       <Helmet>
-        <title>{title} - Blog - Umair Ayub</title>
+        <title>{title} - Blog - Samiya Farooquee</title>
       </Helmet>
       <div className="container">
         <h1 className="pageTitle">{title}</h1>
