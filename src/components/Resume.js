@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 import Helmet from "react-helmet";
-import MyResume from "../resume/Samiya.Farooquee.Resume.pdf";
+import MyResume from "../resume/Resume_Samiya.pdf";
 
 const pageTitle = "Resume";
 
