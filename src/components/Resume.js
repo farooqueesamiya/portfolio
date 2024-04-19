@@ -12,7 +12,7 @@ const Resume = () => {
       </Helmet>
       <h1>Resume</h1>
       <div className="btn">
-        <a href={MyResume} download="Samiya.Farooquee.Resume.pdf">
+        <a href={MyResume} download="Resume_Samiya.pdf">
           <strong>Download Resume!</strong>
         </a>
       </div>
